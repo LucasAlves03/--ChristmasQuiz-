@@ -4,7 +4,7 @@ body {
   text-align: center;
   margin: 0;
   padding: 0;
-  background-image: url('img/BackgroundImg.jpeg');
+  background-image: url('./img/BackgroundImg.jpeg');
   background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -43,7 +43,6 @@ button {
   border-radius: 5px;
   font-size: 14pt;
 }
-
 
 .quiz-img{
   width: 300px;
